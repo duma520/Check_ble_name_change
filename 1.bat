@@ -1,0 +1,2 @@
+cls
+python check_ble_name_change.py
